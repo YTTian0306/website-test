@@ -24,7 +24,7 @@ var S = {
     if (i !== -1) {
       S.UI.simulate(decodeURI(action).substring(i + 3));
     } else {
-      S.UI.simulate('|陈|婧|涵|是|大|傻|瓜|');
+      S.UI.simulate('|Kristy|我|爱|你|#heart|');
     }
 
     S.Drawing.loop(function () {
